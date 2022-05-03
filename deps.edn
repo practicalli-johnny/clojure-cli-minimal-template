@@ -1,0 +1,5 @@
+;; A deps.edn file requires a hash-map
+;; Add :paths :deps and :aliases for project specific configuration
+;; and provide configuration for Continuous Integration services
+
+{}
