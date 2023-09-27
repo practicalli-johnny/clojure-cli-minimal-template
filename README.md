@@ -2,6 +2,8 @@
 
 A minimal Clojure CLI template for REPL driven development from scratch, using practicalli/clojure-deps-edn user level configuration for additional community tools.
 
+**DEPRECATED: Clojure CLI minimal template is no longer maintained.  Use [Practicalli Project Templates]() to create new project using `:template practicalli/minimal`
+
 
 ## Getting started
 
